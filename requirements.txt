@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+Pillow
+opencv-python
+matplotlib
+tqdm
+tensorflow
+keras
+gtts
+googletrans==4.0.0rc1
